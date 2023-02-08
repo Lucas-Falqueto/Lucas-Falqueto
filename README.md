@@ -1,10 +1,10 @@
 ### Olá! Meu nome é Lucas 🔥🔥
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e resolução de problemas. Com habilidades sólidas em HTML, CSS, Java, JavaScript, Node.js, TypeScript e SQL, tenho uma ampla gama de conhecimento para ajudar a alcançar suas metas de projeto. Acredito em escrever código limpo e mantível, trabalhando sempre com o objetivo de produzir soluções eficientes e inovadoras. Estou animado para colaborar e aprender mais sobre tecnologias e desafios no mundo da programação
+Sou um desenvolvedor full-stack apaixonado por tecnologia e resolução de problemas. Com habilidades sólidas em HTML, CSS, Java, JavaScript, Node.js, TypeScript e SQL, tenho uma ampla gama de conhecimento. Acredito em escrever código limpo e mantível, trabalhando sempre com o objetivo de produzir soluções eficientes e inovadoras. Estou animado para colaborar e aprender mais sobre tecnologias e desafios no mundo da programação
 
 - Atualmente cursando faculdade de análise e desenvolvimento de sistemas 
 
-I am a passionate full-stack developer driven by technology and problem solving. With solid skills in HTML, CSS, Java, JavaScript, Node.js, TypeScript, and SQL, I have a wide range of knowledge to help achieve your project goals. I believe in writing clean and maintainable code, always working towards producing efficient and innovative solutions. I am excited to collaborate and learn more about technology and challenges in the world of programming.
+I am a passionate full-stack developer driven by technology and problem solving. With solid skills in HTML, CSS, Java, JavaScript, Node.js, TypeScript, and SQL, I have a wide range of knowledge. I believe in writing clean and maintainable code, always working towards producing efficient and innovative solutions. I am excited to collaborate and learn more about technology and challenges in the world of programming.
 
 - Currently attending college of systems analysis and development
 
